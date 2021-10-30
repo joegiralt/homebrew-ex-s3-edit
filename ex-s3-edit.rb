@@ -15,6 +15,6 @@ class ExS3Edit < Formula
   end
 
   def install
-    bin.install 'ex-s3-edit'
+    bin.install 'ex_s3_edit'
   end
 end
